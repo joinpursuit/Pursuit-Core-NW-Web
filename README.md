@@ -1,4 +1,4 @@
-# Pursuit-Core-NW-Web
+# Pursuit Core Nights & Weekends Web
 Class lesson breakdowns, etc
 
 ## Unit 1: Fundamentals
