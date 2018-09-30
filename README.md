@@ -3,8 +3,8 @@ Class lesson breakdowns, etc
 
 ## Unit 1: Fundamentals
 
-| Lesson  | Lab |
-| ------------- | ------------- |
+| Lesson  | Lab | Notes |
+| ------------- | ------------- | ------------- |
 | [Installing NodeJS](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/local_environment/Local_Environment_Setup.md#mac-os-installation-instructions), [Command Line](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/the_command_line/terminal.md), [Installing Git, Git](https://github.com/joinpursuit/Pursuit-Core-Web/tree/master/fundamentals/git_and_github) | [PSET](https://github.com/mottaquikarim/PCNWLab-Command-Line)  |
 | [Github, Pushing, Branching, Feature Branching, PRs   ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/git_and_github/git_and_github.md) | [PSET](https://github.com/mottaquikarim/PCNWLab-Github)  |
 | [Values, Types, Operations, Typeof](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/values_types_operators/values_types_operators.md)  | [PSET](https://github.com/mottaquikarim/PCNWLab-Types) |
