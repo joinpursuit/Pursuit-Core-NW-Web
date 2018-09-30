@@ -15,7 +15,7 @@ Class lesson breakdowns, etc
 | [Strings](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/strings/strings_update.md)  |  |
 | [Arrays](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/arrays/arrays_update.md)  |  |
 | [Loops](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/loops/loops.md)  | [PSET](https://github.com/mottaquikarim/PCNWLab-Loops) |
-| [Callbacks / Array Methods](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/array_methods/array_methods_update.md)  | [PSET]([PSET](https://github.com/mottaquikarim/PCNWLab-Loops) - Solve again, but now using Array methods __only__ |
+| [Callbacks / Array Methods](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/array_methods/array_methods_update.md)  | [PSET](https://github.com/mottaquikarim/PCNWLab-Loops) - Solve again, but now using Array methods __only__ |
 | [Object Literals / JSON](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/objects/objects_update.md)  | [PSET](https://github.com/mottaquikarim/PCNWLab-Object-Literals) |
 | [Constructor Functions & Prototypes](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/constructor_functions/constructor_functions_update.md)  |  |
 | [Classes & Extends](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/classes/classes_update.md)  |  |
