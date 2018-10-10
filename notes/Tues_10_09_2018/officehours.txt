@@ -1,0 +1,10 @@
+/*
+  
+  Office Hours:
+   Michael: Thursdays (7-10pm) and Saturdays (6-9pm)
+   Joyce: Saturdays (6-9pm)
+   Susana: Sundays (6-9pm)
+   Carlos: Weekends during lunch if other slots don't work.
+
+  
+*/
