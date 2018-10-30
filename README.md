@@ -18,4 +18,4 @@ Class lesson breakdowns, etc
 | [Object Literals / JSON](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/objects/objects_update.md)  | [PSET](https://github.com/mottaquikarim/PCNWLab-Object-Literals) |
 | [Arguements & Closures (Advanced Functions)](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/function_arguments_and_closures/arguments_and_closures_update.md)  |  |
 | [Constructor Functions & Prototypes](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/constructor_functions/constructor_functions_update.md)  |  |
-| [Classes & Extends](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/classes/classes_update.md)  |  |
+| [Classes & Extends](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/classes/classes_update.md)  | [PSET](https://github.com/mmosayed/PCNWLab-Classes) |
