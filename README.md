@@ -4,14 +4,14 @@ Class lesson breakdowns, etc
 ## Unit 2: HTML/CSS & the DOM
 
 | Topic | Lessons | PSETS | Lab | DSA Topic | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ---------------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **HTML+CSS** | [HTML Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_intro/html_intro_update.md) |
 | **HTML+CSS** | [Paragraphs and Headings ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_paragraph_and_headings/html_p_h_tags.md) |
 | **HTML+CSS** | [Lists, Links, and Images](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_lists_links_imgs/html_list_link_img_tags.md) |
 | **HTML+CSS** | [Tables and Forms](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_tables_forms/html_table_form_tags.md) | [Cookie Recipe](https://github.com/FEWDMaterials/cookie-recipe-starter), [About Me](https://github.com/FEWDMaterials/aboutMe) |
 | **HTML+CSS** | [CSS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_intro/css_intro.md) | [Relative Paths](https://github.com/FEWDMaterials/RelativePathsReview) |
 | **HTML+CSS** | [Selectors](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_selectors/css_selectors.md) | [CSS Selectors](https://github.com/FEWDMaterials/CSSSelectorsReview) |
-| **HTML +CSS** | [Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) | [Box Model Basics](https://github.com/FEWDMaterials/basicLayoutsReview) |
+| **HTML+CSS** | [Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) | [Box Model Basics](https://github.com/FEWDMaterials/basicLayoutsReview) |
 | **HTML+CSS** | [Reset](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_reset/reset_update.md) | | [Wendy Bite](https://github.com/FEWDMaterials/WendyBite_BEM) | [Big-O Complexity](https://github.com/mmosayed/DSA-Curriculum/blob/master/Big-O%20Notation/lesson-js.md) |
 | **Advanced CSS** | [Flexbox ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_flexbox/css_flexbox.md) |
 | **Advanced CSS** | Review 1 | [PSET1](https://github.com/FEWDMaterials/layoutPractice) |
