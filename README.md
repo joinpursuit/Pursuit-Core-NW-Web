@@ -11,7 +11,7 @@ Class lesson breakdowns, etc
 | **HTML+CSS** | [Tables and Forms](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_tables_forms/html_table_form_tags.md) | [Cookie Recipe](https://github.com/FEWDMaterials/cookie-recipe-starter), [About Me](https://github.com/FEWDMaterials/aboutMe) |
 | **HTML+CSS** | [CSS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_intro/css_intro.md) | [Relative Paths](https://github.com/FEWDMaterials/RelativePathsReview) |
 | **HTML+CSS** | [Selectors](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_selectors/css_selectors.md) | [CSS Selectors](https://github.com/FEWDMaterials/CSSSelectorsReview) |
-| **HTML  SS** | [Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) | [Box Model Basics](https://github.com/FEWDMaterials/basicLayoutsReview) |
+| **HTML +CSS** | [Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) | [Box Model Basics](https://github.com/FEWDMaterials/basicLayoutsReview) |
 | **HTML+CSS** | [Reset](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_reset/reset_update.md) | | [Wendy Bite](https://github.com/FEWDMaterials/WendyBite_BEM) | [Big-O Complexity](https://github.com/mmosayed/DSA-Curriculum/blob/master/Big-O%20Notation/lesson-js.md) |
 | **Advanced CSS** | [Flexbox ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_flexbox/css_flexbox.md) |
 | **Advanced CSS** | Review 1 | [PSET1](https://github.com/FEWDMaterials/layoutPractice) |
@@ -25,6 +25,13 @@ Class lesson breakdowns, etc
 | **DOM** | [Events 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_1/event_update.md) |
 | **DOM** | [Events 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_2/events_2_update.md) |
 | **DOM** | [Events Loop ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/event_loop/event_loop_update.md) |  [PSET8](https://github.com/FEWDMaterials/UI_PSETS), [PSET9](https://github.com/FEWDMaterials/UIReview) | [Slideshow](https://github.com/FEWDMaterials/SimpleSlideshow) **TODO** | [Binary Search](https://github.com/mmosayed/DSA-Curriculum/blob/master/Binary%20Search/lesson-js.md) |
+| **Async** | [API Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/api_intro/api_intro.md) |
+| **Async** | [RESTful APIs](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/restful_apis/restful_api.md) |
+| **Async** | [AJAX ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/ajax/ajax_update.md) |
+| **Async** | [Promises](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/promises/promises_update.md) | [PSET10](https://github.com/mottaquikarim/PCNWLab-Promises) **TODO** |
+| **Async** | [Fetch ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/fetch/fetch_update.md) |
+| **Async** | [Axios](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/axios/axios_update.md) |
+| **Async** | [Async/Await](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/async_and_await/async_and_await_update.md) | | [Giphy Search Engine](https://github.com/FEWDMaterials/gifSearchEngine) | [Bubble Sort](https://github.com/mmosayed/DSA-Curriculum/blob/master/Sorting%20Algorithms/lesson-bubble-js.md) |
 
 ## Unit 1: Fundamentals
 
