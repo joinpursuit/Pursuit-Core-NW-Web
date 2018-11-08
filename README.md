@@ -3,7 +3,7 @@ Class lesson breakdowns, etc
 
 ## Unit 2: HTML/CSS & the DOM
 
-| Topic | Lessons | PSETS | Lab | DSA Topic | Notes |
+| Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Lessons | PSETS | Lab | DSA Topic | Notes |
 | ---------------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **HTML+CSS** | [HTML Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_intro/html_intro_update.md) |
 | **HTML+CSS** | [Paragraphs and Headings ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_paragraph_and_headings/html_p_h_tags.md) |
