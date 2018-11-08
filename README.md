@@ -1,6 +1,19 @@
 # Pursuit Core Nights & Weekends Web
 Class lesson breakdowns, etc
 
+## Unit 2: HTML/CSS & the DOM
+
+| Topic | Lessons | PSETS | Lab | DSA Topic | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Intro to HTML and CSS** | [HTML Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_intro/html_intro_update.md) |
+| **Intro to HTML and CSS** | [HTML Tags - Paragraphs and Headings ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_paragraph_and_headings/html_p_h_tags.md) |
+| **Intro to HTML and CSS** | [HTML Tags - Lists, Links, and Images](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_lists_links_imgs/html_list_link_img_tags.md) |
+| **Intro to HTML and CSS** | [HTML Tags - Tables and Forms](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_tables_forms/html_table_form_tags.md) | [Cookie Recipe](https://github.com/FEWDMaterials/cookie-recipe-starter), [About Me](https://github.com/FEWDMaterials/aboutMe) |
+| **Intro to HTML and CSS** | [CSS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_intro/css_intro.md) | [Relative Paths](https://github.com/FEWDMaterials/RelativePathsReview) |
+| **Intro to HTML and CSS** | [CSS - Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) |
+| **Intro to HTML and CSS** | [CSS - Selectors](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_selectors/css_selectors.md) | [CSS Selectors](https://github.com/FEWDMaterials/CSSSelectorsReview) |
+| **Intro to HTML and CSS** | [CSS - Reset](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_reset/reset_update.md) | | [Wendy Bite](https://github.com/FEWDMaterials/WendyBite_BEM) | [Big-O Complexity](https://github.com/mmosayed/DSA-Curriculum/blob/master/Big-O%20Notation/lesson-js.md) |
+
 ## Unit 1: Fundamentals
 
 | Lesson  | Lab | Notes |
@@ -19,3 +32,4 @@ Class lesson breakdowns, etc
 | [Arguements & Closures (Advanced Functions)](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/function_arguments_and_closures/arguments_and_closures_update.md)  |  |
 | [Constructor Functions & Prototypes](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/constructor_functions/constructor_functions_update.md)  |  |
 | [Classes & Extends](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/fundamentals/classes/classes_update.md)  | [PSET](https://github.com/mmosayed/PCNWLab-Classes) |
+
