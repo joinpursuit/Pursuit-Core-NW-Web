@@ -20,6 +20,11 @@ Class lesson breakdowns, etc
 | **Advanced CSS** | Layout Review 4 **TODO: move to Github** | [PSET7](https://mottaquikarim.github.io/FEWDRemote/stage/index.html?lecture=7#/4/2)  |
 | **Advanced CSS** | [Responsive Web Development](https://fewdmaterials.github.io/FEWD629_Lecture7/#styling-for-various-screens) |
 | **Advanced CSS** | [Front End Frameworks ](https://getbootstrap.com/) |  | [Developer Matchmaker](https://github.com/FEWDMaterials/FEWD_Developer_Matchmaker) | [Recursion](https://github.com/mmosayed/DSA-Curriculum/blob/master/Recursion/lesson-js.md) |
+| **Document Object Model** | [DOM 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_1/dom1_update.md) |
+| **Document Object Model** | [DOM 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_2/dom2_update.md) |  [Selection review](https://github.com/FEWDMaterials/UI_PSETS) |
+| **Document Object Model** | [Events 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_1/event_update.md) |
+| **Document Object Model** | [Events 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_2/events_2_update.md) |
+| **Document Object Model** | [Events Loop ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/event_loop/event_loop_update.md) |  [PSET8](https://github.com/FEWDMaterials/UI_PSETS), [PSET9](https://github.com/FEWDMaterials/UIReview) | [Slideshow](https://github.com/FEWDMaterials/SimpleSlideshow) **TODO: implement requirements** | [Binary Search](https://github.com/mmosayed/DSA-Curriculum/blob/master/Binary%20Search/lesson-js.md) |
 
 ## Unit 1: Fundamentals
 
