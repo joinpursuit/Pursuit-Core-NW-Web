@@ -8,7 +8,7 @@ Class lesson breakdowns, etc
 | **HTML+CSS** | [HTML Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_intro/html_intro_update.md) |
 | **HTML+CSS** | [Paragraphs and Headings ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_paragraph_and_headings/html_p_h_tags.md) |
 | **HTML+CSS** | [Lists, Links, and Images](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_lists_links_imgs/html_list_link_img_tags.md) |
-| **HTML+CSS** | [Tables and Forms](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_tables_forms/html_table_form_tags.md) | [Cookie Recipe](https://github.com/FEWDMaterials/cookie-recipe-starter), [About Me](https://github.com/FEWDMaterials/aboutMe) |
+| **HTML+CSS** | [Tables and Forms](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/html_tables_forms/html_table_form_tags.md) | [Cookie Recipe](https://github.com/FEWDMaterials/cookie-recipe-starter), [Batman Profile](https://github.com/mmosayed/PCNWLab_batman_profile) |
 | **HTML+CSS** | [CSS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_intro/css_intro.md) | [Relative Paths](https://github.com/FEWDMaterials/RelativePathsReview) |
 | **HTML+CSS** | [Selectors](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_selectors/css_selectors.md) | [CSS Selectors](https://github.com/FEWDMaterials/CSSSelectorsReview) |
 | **HTML+CSS** | [Box Model](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/css_box_model/css_box_model.md) | [Box Model Basics](https://github.com/FEWDMaterials/basicLayoutsReview) |
