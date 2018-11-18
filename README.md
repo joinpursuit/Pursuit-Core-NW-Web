@@ -19,7 +19,7 @@ Class lesson breakdowns, etc
 | **Advanced CSS** | Review 3 **TODO** | [PSET6](https://mottaquikarim.github.io/FEWDRemote/stage/index.html?lecture=7#/3/3)  |
 | **Advanced CSS** | Review 4 **TODO** | [PSET7](https://mottaquikarim.github.io/FEWDRemote/stage/index.html?lecture=7#/4/2)  |
 | **Advanced CSS** | [Responsive Dev](https://fewdmaterials.github.io/FEWD629_Lecture7/#styling-for-various-screens) |
-| **Advanced CSS** | [FE Frameworks ](https://getbootstrap.com/) |  | [Matchmaker](https://github.com/FEWDMaterials/FEWD_Developer_Matchmaker) | [Recursion](https://github.com/mmosayed/DSA-Curriculum/blob/master/Recursion/lesson-js.md) |
+| **Advanced CSS** | [FE Frameworks ](https://getbootstrap.com/) |  | [Matchmaker](https://github.com/FEWDMaterials/FEWD_Developer_Matchmaker) | [Recursion](https://github.com/mmosayed/DSA-Curriculum/blob/master/Recursion/lesson-js.md), [PSET](https://github.com/mottaquikarim/PCNWLab-Recursion) |
 | **DOM** | [DOM 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_1/dom1_update.md) |
 | **DOM** | [DOM 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_2/dom2_update.md) |  [Selection review](https://github.com/FEWDMaterials/UI_PSETS) |
 | **DOM** | [Events 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_1/event_update.md) |
