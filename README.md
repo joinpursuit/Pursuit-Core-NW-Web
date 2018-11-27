@@ -21,9 +21,9 @@ Class lesson breakdowns, etc
 | **Advanced CSS** | [Responsive Dev](https://fewdmaterials.github.io/FEWD629_Lecture7/#styling-for-various-screens) |
 | **Advanced CSS** | [FE Frameworks ](https://getbootstrap.com/) |  | [Matchmaker](https://github.com/FEWDMaterials/FEWD_Developer_Matchmaker) | [Recursion](https://github.com/mmosayed/DSA-Curriculum/blob/master/Recursion/lesson-js.md), [PSET](https://github.com/mottaquikarim/PCNWLab-Recursion) |
 | **DOM** | [DOM 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_1/dom1_update.md) |
-| **DOM** | [DOM 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_2/dom2_update.md) |  [Selection review](https://github.com/FEWDMaterials/UI_PSETS) |
+| **DOM** | [DOM 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/dom_2/dom2_update.md) |  [Selection review](https://github.com/mmosayed/PCNWDOM-Intro) |
 | **DOM** | [Events 1 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_1/event_update.md) |
-| **DOM** | [Events 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_2/events_2_update.md) |
+| **DOM** | [Events 2 ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/events_2/events_2_update.md) | [Events review](https://github.com/FEWDMaterials/UI_PSETS)
 | **DOM** | [Events Loop ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/event_loop/event_loop_update.md) |  [PSET8](https://github.com/FEWDMaterials/UI_PSETS), [PSET9](https://github.com/FEWDMaterials/UIReview) | [Slideshow](https://github.com/FEWDMaterials/SimpleSlideshow) **TODO** | [Binary Search](https://github.com/mmosayed/DSA-Curriculum/blob/master/Binary%20Search/lesson-js.md) |
 | **Async** | [API Intro ](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/api_intro/api_intro.md) |
 | **Async** | [RESTful APIs](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/restful_apis/restful_api.md) |
