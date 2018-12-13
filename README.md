@@ -1,6 +1,29 @@
 # Pursuit Core Nights & Weekends Web
 Class lesson breakdowns, etc
 
+## Unit 3: Node, Express & SQL
+
+| Week | Lessons | Lab | DSA Topic |
+| ------| ------  | --- | -------- | 
+| 1 | [NodeJS Intro](intro/readme.md) | 
+| 1 | [Modules: Imports & Exports](modules/readme.md)
+| 1 | [Intro to NPM](npm/readme.md)
+| 1 | [How the Internet Works](internet/readme.md)
+| 1 | [Express 1: Intro to Servers](express/lesson-1.md)
+| 2 | [Promises](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/promises/promises_update.md) | [PSET10](https://github.com/mottaquikarim/PCNWLab-Promises) **TODO SYNC image loading** |
+| 2 | [Axios](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/axios/axios_update.md) |
+| 3 | [Express 2: Basic Routing](express/lesson-2.md)
+| 3 | [Express 3: Passing Data](express/lesson-3.md)
+| 3 | [Express 4: Middleware](express/lesson-4.md)
+| 3 | [Express 5: Nested Routing & App Structure](express/lesson-5.md)
+| 4 | [Databases 1: Intro](databases/lesson-1.md)
+| 4 | [Databases 2: Postgres & Seeding Databases](databases/lesson-2.md)
+| 4 | [Building APIs 1: Intro](apis/lesson-1.md)
+| 4 | [Building APIs 2: Express + Postgres](apis/lesson-2.md)
+
+
+
+
 ## Unit 2: HTML/CSS & the DOM
 
 | Topic | Lessons | PSETS | Lab | DSA Topic | Notes |
