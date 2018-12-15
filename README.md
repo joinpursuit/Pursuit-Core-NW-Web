@@ -5,7 +5,7 @@ Class lesson breakdowns, etc
 
 | Week | Lessons | Lab | DSA Topic |
 | ------| ------  | --- | -------- | 
-| 1 | [NodeJS Intro](intro/readme.md) | 
+| 1 | [NodeJS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/node/intro/readme.md) | [PSET](https://github.com/mmosayed/NodeJS-Intro-PSET)
 | 1 | [Modules: Imports & Exports](modules/readme.md)
 | 1 | [Intro to NPM](npm/readme.md)
 | 1 | [How the Internet Works](internet/readme.md)
