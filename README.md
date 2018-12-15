@@ -7,19 +7,19 @@ Class lesson breakdowns, etc
 | ------| ------  | --- | -------- | 
 | 1 | [NodeJS Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/intro/readme.md) | [PSET](https://github.com/mmosayed/NodeJS-Intro-PSET)
 | 1 | [Modules: Imports & Exports](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/modules/readme.md)
-| 1 | [Intro to NPM](npm/readme.md)
-| 1 | [How the Internet Works](internet/readme.md)
-| 1 | [Express 1: Intro to Servers](express/lesson-1.md)
+| 1 | [Intro to NPM](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/npm/readme.md)
+| 1 | [How the Internet Works](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/internet/readme.md)
+| 1 | [Express 1: Intro to Servers](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-1.md)
 | 2 | [Promises](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/promises/promises_update.md) | [PSET10](https://github.com/mottaquikarim/PCNWLab-Promises) **TODO SYNC image loading** |
 | 2 | [Axios](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/axios/axios_update.md) |
-| 3 | [Express 2: Basic Routing](express/lesson-2.md)
-| 3 | [Express 3: Passing Data](express/lesson-3.md)
-| 3 | [Express 4: Middleware](express/lesson-4.md)
-| 3 | [Express 5: Nested Routing & App Structure](express/lesson-5.md)
-| 4 | [Databases 1: Intro](databases/lesson-1.md)
-| 4 | [Databases 2: Postgres & Seeding Databases](databases/lesson-2.md)
-| 4 | [Building APIs 1: Intro](apis/lesson-1.md)
-| 4 | [Building APIs 2: Express + Postgres](apis/lesson-2.md)
+| 3 | [Express 2: Basic Routing](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-2.md)
+| 3 | [Express 3: Passing Data](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-3.md)
+| 3 | [Express 4: Middleware](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-4.md)
+| 3 | [Express 5: Nested Routing & App Structure](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-5.md)
+| 4 | [Databases 1: Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/databases/lesson-1.md)
+| 4 | [Databases 2: Postgres & Seeding Databases](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/databases/lesson-2.md)
+| 4 | [Building APIs 1: Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/apis/lesson-1.md)
+| 4 | [Building APIs 2: Express + Postgres](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/apis/lesson-2.md)
 
 
 
