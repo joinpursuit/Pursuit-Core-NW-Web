@@ -9,7 +9,7 @@ Class lesson breakdowns, etc
 | 1 | [Modules: Imports & Exports](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/modules/readme.md)
 | 1 | [Intro to NPM](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/npm/readme.md)
 | 1 | [How the Internet Works](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/internet/readme.md)
-| 1 | [Express 1: Intro to Servers](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-1.md)
+| 1 | [Express 1: Intro to Servers](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-1.md) | [PSET](https://github.com/mmosayed/Express-Intro-PSET)
 | 2 | [Promises](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/promises/promises_update.md) | [PSET10](https://github.com/mottaquikarim/PCNWLab-Promises) **TODO SYNC image loading** |
 | 2 | [Axios](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/axios/axios_update.md) |
 | 3 | [Express 2: Basic Routing](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-2.md)
