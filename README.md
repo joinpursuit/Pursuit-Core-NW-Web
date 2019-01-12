@@ -14,7 +14,7 @@ Class lesson breakdowns, etc
 | 2 | [Axios](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/html_css_dom/axios/axios_update.md) | [PSET](https://github.com/mmosayed/PCNW-Promises-Axios)
 | 3 | [Express 2: Basic Routing](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-2.md)
 | 3 | [Express 3: Passing Data](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-3.md)
-| 3 | [Express 4: Middleware](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-4.md)
+| 3 | [Express 4: Middleware](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-4.md) | [PSET](https://github.com/mmosayed/Middleware-Simple-Auth)
 | 3 | [Express 5: Nested Routing & App Structure](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/express/lesson-5.md)
 | 4 | [Databases 1: Intro](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/databases/lesson-1.md)
 | 4 | [Databases 2: Postgres & Seeding Databases](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/node/databases/lesson-2.md)
