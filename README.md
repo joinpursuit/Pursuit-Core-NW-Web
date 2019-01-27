@@ -4,19 +4,19 @@ Class lesson breakdowns, etc
 ## Unit 4: React
 | Week | Lessons | Lab | DSA Topic |
 | ------| ------  | --- | -------- | 
-| 1 | [Why React?](https://reactjs.org/blog/2013/06/05/why-react.html) | 
+| 1 | [Why React?](https://reactjs.org/blog/2013/06/05/why-react.html) | | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
 | 1 | [ES6 Class Review](./es6_class_review/es6_class_review.md)
 | 1 | [React Introduction](./react_intro/react_intro.md)
 | 1 | [Local Setup](./local_setup/local.md)
 | 1 | [Props and Component Structure](./props_and_component_structure/props.md)
-| 2 | [Lifecycle Methods](./lifecycle_methods/lifecycle.md)
+| 2 | [Lifecycle Methods](./lifecycle_methods/lifecycle.md) | | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
 | 2 | [State and Events](./react_events/react_events.md)
 | 2 | Styling Components
 | 2 | [React Forms 1 - Text and Select](./forms_1/forms_1.md)
 | 2 | [React Forms 2 - Checkboxes and Radio](./forms_2/forms_2.md)
 | 2 | [React Forms 3 - The Form Tag](./forms_3/forms_3.md)
-| 3 | [AJAX](./ajax/ajax.md) 
-| 4 | [React Router](./react_router/react_router.md)
+| 3 | [AJAX](./ajax/ajax.md)  | | [Stacks](https://github.com/mmosayed/DSA-Curriculum/blob/master/Stacks/lesson-js.md)
+| 4 | [React Router](./react_router/react_router.md)  | | [Queues](https://github.com/mmosayed/DSA-Curriculum/blob/master/Queues/lesson-js.md)
 | 4 | [React Router 2](./react_router_2/react_router_2.md)
 
 
