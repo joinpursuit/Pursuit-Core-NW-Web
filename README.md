@@ -9,7 +9,7 @@ Class lesson breakdowns, etc
 | 1 | [React Introduction](./react_intro/react_intro.md)
 | 1 | [Local Setup](./local_setup/local.md)
 | 1 | [Props and Component Structure](./props_and_component_structure/props.md)
-| 2 | [Lifecycle Methods](./lifecycle_methods/lifecycle.md) | | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
+| 2 | [Lifecycle Methods](./lifecycle_methods/lifecycle.md) | [Lab 1: Calculator](https://github.com/mmosayed/PCNW-U4-Lab1) | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
 | 2 | [State and Events](./react_events/react_events.md)
 | 2 | Styling Components
 | 2 | [React Forms 1 - Text and Select](./forms_1/forms_1.md)
