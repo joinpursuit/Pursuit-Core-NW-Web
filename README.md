@@ -6,9 +6,9 @@ Class lesson breakdowns, etc
 | ------| ------  | --- | -------- | 
 | 1 | [Why React?](https://reactjs.org/blog/2013/06/05/why-react.html) | | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
 | 1 | [ES6 Class Review](./es6_class_review/es6_class_review.md)
-| 1 | [React Introduction](./react_intro/react_intro.md)
+| 1 | [React Introduction](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/react_intro/react_intro.md)
 | 1 | [Local Setup](./local_setup/local.md)
-| 1 | [Props and Component Structure](./props_and_component_structure/props.md)
+| 1 | [Props and Component Structure](./props_and_component_structure/props.md) | [Donation App](https://github.com/mmosayed/Donation-React-App) | 
 | 2 | [Lifecycle Methods](./lifecycle_methods/lifecycle.md) | [Lab 1: Calculator](https://github.com/mmosayed/PCNW-U4-Lab1) | [Linked List](https://github.com/mmosayed/DSA-Curriculum/blob/master/Linked%20List/lesson-js.md)
 | 2 | [State and Events](./react_events/react_events.md)
 | 2 | Styling Components
