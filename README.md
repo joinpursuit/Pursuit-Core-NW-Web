@@ -14,7 +14,7 @@ Class lesson breakdowns, etc
 | 2 | Styling Components
 | 2 | [React Forms 1 - Text and Select](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/forms_1/forms_1.md)
 | 2 | [React Forms 2 - Checkboxes and Radio](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/forms_2/forms_2.md)
-| 2 | [React Forms 3 - The Form Tag](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/forms_3/forms_3.md)
+| 2 | [React Forms 3 - The Form Tag](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/forms_3/forms_3.md) | [Lab 2: Pokedex](https://github.com/mmosayed/PCNW-U4-Lab2)
 | 3 | [AJAX](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/ajax/ajax.md)  | | [Stacks](https://github.com/mmosayed/DSA-Curriculum/blob/master/Stacks/lesson-js.md)
 | 4 | [React Router](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/react_router/react_router.md)  | | [Queues](https://github.com/mmosayed/DSA-Curriculum/blob/master/Queues/lesson-js.md)
 | 4 | [React Router 2](https://github.com/joinpursuit/Pursuit-Core-Web/blob/master/react/react_router_2/react_router_2.md)
