@@ -8,7 +8,7 @@ Class lesson breakdowns, etc
 | 3/5/2019 | Unit 4 Final Codealong |
 | 3/10/2019 | Jest & Unit Testing Intro |
 | 3/11/2019 | Testing Continued |
-| 3/12/2019 | Intro to Firebase & Cloud Storage |
+| 3/12/2019 | Intro to Firebase & Uploading Files to Cloud Storage |
 | 3/13/2019 |  |
 | 3/16/2019 | Firebase Authentication & Server-Side Protected Routes |
 | 3/17/2019 | |
