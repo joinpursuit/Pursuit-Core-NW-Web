@@ -11,10 +11,10 @@ Class lesson breakdowns, etc
 | 3/12/2019 | Intro to Firebase & Uploading Files to Cloud Storage |
 | 3/13/2019 | Help Fellows integration CI/CD into personal repos|
 | 3/16/2019 | Firebase Authentication & Server-Side Protected Routes |
-| 3/17/2019 | |
-| 3/18/2019 | |
+| 3/17/2019 | Deployment |
+| 3/18/2019 | Integrating Deployment into CI/CD|
 | 3/19/2019 | Intro to React Context |
-| 3/20/2019 | |
+| 3/20/2019 | Intro to Component Testing (maybe)|
 | 3/23/2019 | React Context & Client-Side Protected Routes |
 
 ## Unit 4: React
