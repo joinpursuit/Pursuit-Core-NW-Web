@@ -10,7 +10,7 @@ Class lesson breakdowns, etc
 | 3/11/2019 | Integrating CI/CD pipeline |
 | 3/12/2019 | Intro to Firebase & Uploading Files to Cloud Storage | [PSET](https://github.com/mmosayed/React-Image-Feed-Uploader-w-Firebase)
 | 3/13/2019 | Help Fellows integration CI/CD into personal repos|
-| 3/16/2019 | Firebase Authentication & Server-Side Protected Routes |
+| 3/16/2019 | Firebase Authentication & Server-Side Protected Routes | [PSET](https://github.com/mmosayed/React-Auth-W-Firebase)
 | 3/17/2019 | Deployment |
 | 3/18/2019 | Integrating Deployment into CI/CD|
 | 3/19/2019 | Intro to React Context |
