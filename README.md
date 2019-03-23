@@ -15,7 +15,7 @@ Class lesson breakdowns, etc
 | 3/18/2019 | Integrating Deployment into CI/CD|
 | 3/19/2019 | Intro to React Context |
 | 3/20/2019 | Intro to Component Testing |
-| 3/23/2019 | React Context & Client-Side Protected Routes |
+| 3/23/2019 | React Context & Client-Side Protected Routes | [PSET](https://github.com/mmosayed/React-Auth-w-Context)
 | 3/24/2019 | Component Testing and Stage based deployments |
 | 3/25/2019 | Help integrating component tests into personal repos |
 | 3/26/2019 | Intro to React Native |
